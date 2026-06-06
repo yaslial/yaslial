@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Yasmim 🌸</h1>
+<h1 align="center">Hi! I'm Yasmim 🌸</h1>
 
 <p align="center">
   Software Development Student | Frontend • Python • AI • AWS
