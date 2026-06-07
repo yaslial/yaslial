@@ -28,15 +28,18 @@ HTML, CSS, JavaScript, Python and AWS.
 
 ### Learning & building with
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,aws&theme=dark" />
-</p>
+![HTML5](https://img.shields.io/badge/HTML5-2b102f?style=for-the-badge&logo=html5&logoColor=ff8fab)
+![CSS3](https://img.shields.io/badge/CSS3-2b102f?style=for-the-badge&logo=css&logoColor=9bdcff)
+![JavaScript](https://img.shields.io/badge/JavaScript-2b102f?style=for-the-badge&logo=javascript&logoColor=f7df1e)
+![Python](https://img.shields.io/badge/Python-2b102f?style=for-the-badge&logo=python&logoColor=ffb3c6)
+![AWS](https://img.shields.io/badge/☁%20AWS-2b102f?style=for-the-badge&logoColor=ffb703)
 
 ### Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" />
-</p>
+![Git](https://img.shields.io/badge/Git-2b102f?style=for-the-badge&logo=git&logoColor=ff8fab)
+![GitHub](https://img.shields.io/badge/GitHub-2b102f?style=for-the-badge&logo=github&logoColor=ffffff)
+![VS Code](https://img.shields.io/badge/VS%20Code-2b102f?style=for-the-badge&logo=vscodium&logoColor=9bdcff)
+![Figma](https://img.shields.io/badge/Figma-2b102f?style=for-the-badge&logo=figma&logoColor=ffb3c6)
 
 ---
 
