@@ -32,13 +32,13 @@ HTML, CSS, JavaScript, Python and AWS.
 ![CSS3](https://img.shields.io/badge/CSS3-2b102f?style=for-the-badge&logo=css3&logoColor=9bdcff)
 ![JavaScript](https://img.shields.io/badge/JavaScript-2b102f?style=for-the-badge&logo=javascript&logoColor=f7df1e)
 ![Python](https://img.shields.io/badge/Python-2b102f?style=for-the-badge&logo=python&logoColor=ffb3c6)
-![AWS](https://img.shields.io/badge/AWS-2b102f?style=for-the-badge&logo=amazonaws&logoColor=ffb703)
+![AWS](https://img.shields.io/badge/AWS-2b102f?style=for-the-badge&logo=amazonwebservices&logoColor=ffb703)
 
 ### Tools
 
 ![Git](https://img.shields.io/badge/Git-2b102f?style=for-the-badge&logo=git&logoColor=ff8fab)
 ![GitHub](https://img.shields.io/badge/GitHub-2b102f?style=for-the-badge&logo=github&logoColor=ffffff)
-![VS Code](https://img.shields.io/badge/VS_Code-2b102f?style=for-the-badge&logo=visualstudiocode&logoColor=9bdcff)
+![VS Code](https://img.shields.io/badge/VS%20Code-2b102f?style=for-the-badge&logo=visualstudiocode&logoColor=9bdcff)
 ![Figma](https://img.shields.io/badge/Figma-2b102f?style=for-the-badge&logo=figma&logoColor=ffb3c6)
 
 ---
